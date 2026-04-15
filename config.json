@@ -1,0 +1,44 @@
+{
+  "tienda": {
+    "nombre": "JEYSON PLAY STORE",
+    "descripcion": "Tienda de APKs profesional creada por Jeyson",
+    "redes_sociales": {
+      "github": "https://github.com/JeysonPlays",
+      "twitter": "https://twitter.com/JeysonPlays",
+      "facebook": "https://facebook.com/JeysonPlays"
+    }
+  },
+  "colores": {
+    "primario": "#6366f1",
+    "secundario": "#8b5cf6",
+    "acento": "#ec4899",
+    "fondo_oscuro": "#0f172a",
+    "fondo_tarjeta": "#1e293b"
+  },
+  "categorias": [
+    {
+      "id": "finanzas",
+      "nombre": "Finanzas",
+      "icono": "fa-calculator",
+      "descripcion": "Gestiona tus finanzas personales"
+    },
+    {
+      "id": "juegos",
+      "nombre": "Juegos",
+      "icono": "fa-gamepad",
+      "descripcion": "Diviértete con nuestros juegos"
+    },
+    {
+      "id": "utilidades",
+      "nombre": "Utilidades",
+      "icono": "fa-wrench",
+      "descripcion": "Herramientas útiles para tu día a día"
+    },
+    {
+      "id": "productividad",
+      "nombre": "Productividad",
+      "icono": "fa-list-check",
+      "descripcion": "Aumenta tu productividad"
+    }
+  ]
+}
